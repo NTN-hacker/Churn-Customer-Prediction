@@ -10,7 +10,7 @@ This project serves as an illustrative example of addressing a large-scale machi
 
 The dataset at hand comprises numerous user events within an audio streaming service provider, akin to Spotify. The objective is to identify whether a particular user is likely to cancel the service, leveraging their interactions with the platform for this prediction.
 
-For a comprehensive narrative, you can explore the complete story on this [Medium post](https://reneoctavio.medium.com/large-scale-churn-prediction-using-apache-spark-8d62febee52c).
+For a comprehensive narrative, you can explore the complete story on this [My post](https://viblo.asia/p/churn-customer-prediction-E1XVOvP8LMz).
 
 ## Python libraries
 
@@ -52,7 +52,7 @@ For a comprehensive narrative, you can explore the complete story on this [Mediu
 | Logistic Regression | 0.73     | 700                     |
 | Logistic SVM        | 0.67     | 3590                    |
 | Random Forest       | 0.71     | 348                     |
-| GBoosting           | Text     | Text                    |
+| GBoosting           | 0.69     | 1209                    |
 
 ## Reference
 
